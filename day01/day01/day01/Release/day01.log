@@ -1,0 +1,12 @@
+﻿生成启动时间为 2016/9/9 21:41:36。
+     1>项目“D:\CODE\C++学习\day01\day01\day01\day01.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODE\C++学习\day01\day01\Release\day01.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CODE\C++学习\day01\day01\Release\day01.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODE\C++学习\day01\day01\Release\day01.lib" /MACHINE:X86 /SAFESEH "Release\dm_引用.obj"
+         正在生成代码
+         已完成代码的生成
+         day01.vcxproj -> D:\CODE\C++学习\day01\day01\Release\day01.exe
+     1>已完成生成项目“D:\CODE\C++学习\day01\day01\day01\day01.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.54
